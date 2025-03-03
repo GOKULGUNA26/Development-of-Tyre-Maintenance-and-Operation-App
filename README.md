@@ -1,4 +1,4 @@
-Development of Tyre Maintenance and Operation App for Coal Dumpers
+> Development of Tyre Maintenance and Operation App for Coal Dumpers
 
 Abstract
 
@@ -6,7 +6,7 @@ The proposed project aims to develop an innovative real-time tire monitoring sys
 
 Key Features
 
-> Multi-Sensor Integration: Pressure, temperature, and load sensors for real-time monitoring.
+-> Multi-Sensor Integration: Pressure, temperature, and load sensors for real-time monitoring.
 
 -> Real-Time TKPH Calculation: Provides accurate predictions for tire life expectancy.
 
