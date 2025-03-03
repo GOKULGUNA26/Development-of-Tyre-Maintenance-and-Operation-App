@@ -6,60 +6,60 @@ The proposed project aims to develop an innovative real-time tire monitoring sys
 
 Key Features
 
-Multi-Sensor Integration: Pressure, temperature, and load sensors for real-time monitoring.
+> Multi-Sensor Integration: Pressure, temperature, and load sensors for real-time monitoring.
 
-Real-Time TKPH Calculation: Provides accurate predictions for tire life expectancy.
+-> Real-Time TKPH Calculation: Provides accurate predictions for tire life expectancy.
 
-Geofencing: Prevents trucks from operating outside designated zones.
+-> Geofencing: Prevents trucks from operating outside designated zones.
 
-Acoustic-Based Crack Detection: Identifies potential faults before they lead to failure.
+-> Acoustic-Based Crack Detection: Identifies potential faults before they lead to failure.
 
-Energy Harvesting: Reduces dependency on frequent battery replacements.
+-> Energy Harvesting: Reduces dependency on frequent battery replacements.
 
-Cloud Connectivity: Enables remote monitoring and predictive maintenance.
+-> Cloud Connectivity: Enables remote monitoring and predictive maintenance.
 
-Automated Alerts: Notifies operators when critical parameters exceed safe limits.
+-> Automated Alerts: Notifies operators when critical parameters exceed safe limits.
 
 Technical Approach
 
 The project follows a multi-layered technical strategy that includes:
 
-Feasibility Analysis
+-> Feasibility Analysis
 
-Integration of Multiple Sensors
+-> Integration of Multiple Sensors
 
-Thermal Energy Harvesting
+-> Thermal Energy Harvesting
 
-Real-Time Monitoring
+-> Real-Time Monitoring
 
-Geofencing for Location Tracking
+-> Geofencing for Location Tracking
 
-Cost-Effectiveness
+-> Cost-Effectiveness
 
 Challenges and Strategies to Overcome
 
-Data Accuracy Issues → Regular Calibration and Testing
+ - Data Accuracy Issues → Regular Calibration and Testing
 
-Integration Complexity → Phased Integration Approach
+ - Integration Complexity → Phased Integration Approach
 
-Environmental Durability → Ruggedized Hardware Selection
+ - Environmental Durability → Ruggedized Hardware Selection
 
-Data Transmission Reliability → Mesh Networking or LoRa
+ - Data Transmission Reliability → Mesh Networking or LoRa
 
-Power Management → Hybrid Power Solutions
+ - Power Management → Hybrid Power Solutions
 
 Architecture
 
-ESP32 IoT Microcontroller for data transmission
+-> ESP32 IoT Microcontroller for data transmission
 
-Neo-6M GPS module for geofencing
+-> Neo-6M GPS module for geofencing
 
-MS5803-14BA for pressure sensing
+-> MS5803-14BA for pressure sensing
 
-DS18B20 for temperature monitoring
+-> DS18B20 for temperature monitoring
 
-S-Type load cell for load measurement
+-> S-Type load cell for load measurement
 
-Firebase Cloud for data storage and analysis
+-> Firebase Cloud for data storage and analysis
 
-Machine Learning Algorithms (Random Forest, Gradient Boosting, ARIMA, LSPM) for predictive analytics
+-> Machine Learning Algorithms (Random Forest, Gradient Boosting, ARIMA, LSPM) for predictive analytics
