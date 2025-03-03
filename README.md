@@ -48,18 +48,4 @@ Challenges and Strategies to Overcome
 
  - Power Management → Hybrid Power Solutions
 
-Architecture
 
--> ESP32 IoT Microcontroller for data transmission
-
--> Neo-6M GPS module for geofencing
-
--> MS5803-14BA for pressure sensing
-
--> DS18B20 for temperature monitoring
-
--> S-Type load cell for load measurement
-
--> Firebase Cloud for data storage and analysis
-
--> Machine Learning Algorithms (Random Forest, Gradient Boosting, ARIMA, LSPM) for predictive analytics
