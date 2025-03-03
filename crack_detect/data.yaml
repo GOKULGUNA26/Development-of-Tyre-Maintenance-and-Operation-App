@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['bed', 'television', 'window']
+
+roboflow:
+  workspace: obdect
+  project: obdect
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/obdect/obdect/dataset/1
