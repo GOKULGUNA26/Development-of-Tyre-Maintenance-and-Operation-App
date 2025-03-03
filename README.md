@@ -4,8 +4,12 @@ Abstract
 
 The proposed project aims to develop an innovative real-time tire monitoring system specifically designed for coal mine dump trucks, prioritizing enhanced safety, optimized maintenance, and extended tire life under extreme operational conditions. This system integrates multiple sensors, including pressure sensors to measure tire pressure up to 150 psi and temperature sensors for monitoring temperatures up to 125°C, ensuring that the tires operate within safe parameters. Additionally, the system incorporates real-time load measurement up to 240 tonnes to calculate Ton-Kilometer Per Hour (TKPH) values, providing a more accurate method to predict tire life expectancy compared to conventional methods.
 
-Protorype
-https://github.com/user-attachments/assets/594be6e1-8fba-4819-8374-0364e19b964f
+Protorype:
+Check out our prototype video!
+  https://github.com/user-attachments/assets/594be6e1-8fba-4819-8374-0364e19b964f
+
+Youtube LINK: 
+  https://youtu.be/5MusxAu4ujQ
 
 Key Features
 
